@@ -1,0 +1,50 @@
+### Node.js ###
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+### Logs ###
+logs
+*.log
+logs/*.log
+logs/**/*.log
+
+### Environment Variables ###
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+### Build Files ###
+dist/
+build/
+
+### Editor Directories ###
+.vscode/
+.idea/
+
+### OS-specific Files ###
+.DS_Store
+Thumbs.db
+
+### Coverage and Testing ###
+coverage/
+*.lcov
+
+### MongoDB ###
+*.seed
+
+### Public and Uploads ###
+public/uploads/
+
+### React Specific ###
+*.cache
+.next/
+out/
+
+### Docker ###
+.dockerignore
+docker-compose.yml
