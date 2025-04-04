@@ -15,7 +15,7 @@ const HeroSection = () => {
           className="max-w-7xl flex flex-col items-center mx-auto gap-2"
         >
           <h1 className="text-5xl md:text-8xl font-bold mb-6 text-center">
-            Shaping the <p className='inline text-orange-500 bg-clip-text text-transparent'>Future</p> with <p className='inline bg-pink-700 bg-clip-text text-transparent invert'>Next-Gen</p> Digital Solutions
+            Shaping the <p className='inline text-orange-400 bg-clip-text text-transparent'>Future</p> with <p className='inline bg-pink-700 bg-clip-text text-transparent invert'>Next-Gen</p> Digital Solutions
           </h1>
           <p className="text-xl mb-8 text-center">
             Empowering businesses, governments, and institutions with cutting-edge automation, 
